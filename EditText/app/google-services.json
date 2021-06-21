@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319976508884",
+    "project_id": "edittext-ce169",
+    "storage_bucket": "edittext-ce169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319976508884:android:3073a7c5977784072c1a41",
+        "android_client_info": {
+          "package_name": "com.example.edittext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319976508884-m828bhct23vfv40gulpdh2r1faf2bb64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjYEs3Nz8w_asv1ICwC7rezjRj80IZG5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319976508884-m828bhct23vfv40gulpdh2r1faf2bb64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
