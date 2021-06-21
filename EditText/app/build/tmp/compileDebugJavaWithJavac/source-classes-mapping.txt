@@ -1,0 +1,15 @@
+com/example/edittext/User.java
+ com.example.edittext.User
+com/example/edittext/BuildConfig.java
+ com.example.edittext.BuildConfig
+com/example/edittext/MainActivity.java
+ com.example.edittext.MainActivity
+com/example/edittext/RegistrationActivity.java
+ com.example.edittext.RegistrationActivity
+ com.example.edittext.RegistrationActivity$1
+ com.example.edittext.RegistrationActivity$2
+ com.example.edittext.RegistrationActivity$3
+ com.example.edittext.RegistrationActivity$3$1
+com/example/edittext/LoginActivity.java
+ com.example.edittext.LoginActivity
+ com.example.edittext.LoginActivity$1
